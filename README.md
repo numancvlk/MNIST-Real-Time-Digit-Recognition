@@ -3,8 +3,8 @@
 Bu proje, **MNIST** el yazısı rakam verisini kullanarak bir CNN modeli eğitmek ve ardından gerçek zamanlı kamera görüntüsü üzerinden rakam tahmini yapmak amacıyla geliştirilmiştir.
 
 İki ayrı script bulunmaktadır: 
-**MODELTRAIN.py** → CNN modelini eğitir ve kaydeder.
-**MODELPREDICT.py** → Kaydedilmiş modeli yükler ve kamera görüntüsü üzerinden rakam tahmini yapar.
+- **MODELTRAIN.py** → CNN modelini eğitir ve kaydeder.
+- **MODELPREDICT.py** → Kaydedilmiş modeli yükler ve kamera görüntüsü üzerinden rakam tahmini yapar.
 
 ## 💻 Kullanılan Teknolojiler
 - Python 3.11.8
